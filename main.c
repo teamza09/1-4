@@ -37,10 +37,11 @@ switch(score>=50&&score<55)
 {
   case 1 : printf("GRADE : D"); 
   break;
-   }
+}
 switch(score>=0&score<50)
 {
  case 1 : printf("GRADE : F"); 
     break;
-   }
+}
+  return 0;
 }
